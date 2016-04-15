@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">JokeList</string>
+
+    <!-- You must fill in the author_name string resource with your Cal Poly username.-->
+    <string name="author_name">aagrover</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Joke List</string>
+    <string-array name="jokeList">
+        <item>A small boy swallowed some coins and was taken to a hospital. When his grandfather telephoned to ask how he was a nurse said, \'No change yet\'.</item>
+        <item>Cartoonist found dead in home. Details are sketchy.</item>
+        <item>I wondered why the baseball was getting bigger. Then it hit me.</item>
+    </string-array>
+    <string name="remove_menuitem">Remove</string>
+    <string name="filter_menuitem">Filter</string>
+    <string name="filterjokes_menuitem">Filter Jokes</string>
+    <string name="like_menuitem">Like</string>
+    <string name="dislike_menuitem">Dislike</string>
+    <string name="unrated_menuitem">Unrated</string>
+    <string name="show_all_menuitem">Show All</string>
+    <string name="add_joke">Add Joke</string>
+    <string name="hint">Enter a Joke</string>
+    <string name="test_text">"This is a really long chunk of text that will be replaced, never to be seen again, when a JokeView is added to the list."</string>
+</resources>
