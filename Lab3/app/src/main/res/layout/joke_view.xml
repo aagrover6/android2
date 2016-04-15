@@ -30,7 +30,7 @@ Note: You must use the following id's for this list of UI Components defined in
 
     <RadioGroup
         android:id="@+id/ratingRadioGroup"
-        android:layout_width="wrap_content"
+        android:layout_width="35dp"
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:layout_gravity="center"
